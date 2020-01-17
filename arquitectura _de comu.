@@ -1,0 +1,35 @@
+MANUAL DE COMO INSTALAR UBUNTU
+
+Primero se descarga e instala Rufus para poder bootear la imagen ISO
+Despues se descarga Ubuntu de la version que queramos en este caso Ubuntu 18.04.1 que tiene LTS 
+Vamos directamente en donde dice descargas 
+ejecutamos ubuntu y le damos doble clic y le damos en donde dice si
+despues le damos en no para que no haga actualizaciones 
+conectamos la memoria USB 
+inmediatamente rufus detectara la memoria
+revisamos que la unidad de la memoria sea la correcta
+luego tenemos que seleccionar el tipo de arranque, en este caso la imagen de ubuntu 18.04
+despues tenemos que seleccionar nuestro esquema de particion 
+selecionamos el sistema destino y le damos en aceptar
+se deja cargar el estado
+pero antes de esto nos vamos a este equipo
+damos clic derecho y seleccionamos la parte de administrar
+creamos una nueva particion para ubuntu, para ello nos vamos en administracion de discos
+en el disco 0 le damos en reducir volumen 
+seleccionamos el tamaño que queramos y le damos en reducir
+una vez particionado en la memoria 
+introducimos la memoria 
+una vez que lo reconozca apagamos el equipo y lo volvemos a prender con F9
+despues se inicia a restablecer 
+nos parecera la unidad a bootear
+se deja prender el equipo
+nos dara la bienvenida 
+seleccionamos el idioma que deseemos despues la distribucion 
+tambien seleccionamos como lo quremos que me vsys con oytros
+damos clic en el tipo de instalacion que deseemos
+volvemos a crear otra particion seleccionamos 
+llenamos dirctamente con nuestrs datos
+se deja cargaer la instalacion de ubuntu
+le damos en reiniciar
+despues nos mostrara cual siatema operativo queremos
+se retira la memoria
